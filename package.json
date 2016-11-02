@@ -1,10 +1,10 @@
 {
-  "name": "lang-coconut",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "name": "language-coconut",
+  "version": "0.1.0",
+  "description": "Coconut package for Atom",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/lang-coconut",
+  "repository": "https://github.com/enilsen16/language-coconut",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

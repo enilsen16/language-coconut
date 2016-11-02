@@ -1,3 +1,3 @@
-# lang-coconut package
+# language-coconut package
 
-A short description of your package.
+Coconut package for Atom
