@@ -1,14 +1,12 @@
 {
   "name": "language-coconut",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Coconut package for Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/enilsen16/language-coconut",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
